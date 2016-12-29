@@ -1,0 +1,13 @@
+.variations .wc_ea_button {text-decoration: none; vertical-align:middle;text-align:center; display:block;margin: 0 auto;}
+.variations .wc_ea_button_wrapper {margin: auto !important; text-align: center;}
+.variations .wc_ea_color {font-size: 0;}
+.variations .wc_ea_text:hover { text-decoration: none; }
+.variations .wc_ea_button.disabled {cursor:default;}
+.variations .wc_ea_image {color: transparent;}
+.variations .wc_ea_image.selected.masked{background-color: rgba(0,0,0,0.2);}
+.variations .wc_ea_color.selected.checkmark { background: url('../img/checkmark.png') center center no-repeat ; }
+.variations .wc_ea_image.selected.checkmark { position:relative; }
+.variations .wc_ea_image.selected.checkmark:after { content: ''; top: 0; right: 0; bottom: 0; left: 0; position: absolute; background-image: url('../img/checkmark.png'); background-position: center center; background-repeat: no-repeat; }
+
+
+

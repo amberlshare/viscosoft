@@ -1,0 +1,22 @@
+#wc_ea_button_data.wc-metaboxes-wrapper .wc-metabox table td input.wp-color-picker { min-width: inherit; }
+#wc_ea_button_data.wc-metaboxes-wrapper .wc-metabox table td input.wp-picker-clear  {  width: auto; min-width: inherit;}
+#wc_ea_button_data .wp-picker-container input.wp-color-picker[type="text"] { width: 65px; min-width: auto; } 
+#wc_ea_button_data button.save_wc_ea_attributes_reload{ float: right;  margin: 0 0 0 6px; }
+.wc_ea_options_form .form-table label{ display: inline-block; line-height: 1.4em;  margin: 0.25em 0 0.5em !important;}
+.wc_ea_options_form h3:not(:first-of-type) {border-top: 1px solid #ccc; padding-top: 15px;}
+.wc_ea_options_form .sizeSample{ height: 32px; background-color: #999999}
+.wc_ea_options_form .size32 {width: 32px;}
+.wc_ea_options_form .size48 {width: 48px;}
+.wc_ea_options_form .size64 {width: 64px;}
+.wc_ea_term_controls .upload_image_button:before{    bottom: 0;    content: "\f128";    font-family: Dashicons;    font-size: 48px;    font-weight: 400;    left: 0;    line-height: 48px;    position: absolute;    right: 0;    text-align: center;    top: 0;}
+.wc_ea_term_controls .upload_image_button{cursor: pointer;    display: block; height: 48px;    margin-right: 20px;    position: relative;    width: 48px; }    
+.wc_ea_term_controls .upload_image_button img{display: none;    height: auto;    width: 100%;}
+.wc_ea_attributes_table .wc_ea_term_controls td{ padding-top: 1em !important; }
+.wc_ea_attributes_table .wc_ea_term_controls td:first-child{padding-left:1em;}
+.wc_ea_term_controls .upload_image_button.remove img {display: block;}
+.wc_ea_term_controls .upload_image_button.remove:before { content: "\f158";;   display: none;}
+.wc_ea_term_controls .upload_image_button.remove:hover::before {    display: block;}
+.wc_ea_attributes_table{border-collapse: collapse;}
+.wc-ea-term__item{border-bottom: 1px solid #eeeeee;}
+.wc-ea-term__title, .wc-ea-term__type{padding-top: 1em !important; padding-left: 6px !important; vertical-align: middle !important;}
+#wpfooter {position: inherit;}

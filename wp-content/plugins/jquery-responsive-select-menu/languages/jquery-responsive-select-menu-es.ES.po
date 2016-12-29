@@ -1,0 +1,92 @@
+# Copyright (C) 2013 jQuery Responsive Select Menu
+# This file is distributed under the same license as the jQuery Responsive Select Menu package.
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery Responsive Select Menu 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/jquery-responsive-select-"
+"menu\n"
+"POT-Creation-Date: 2013-10-18 15:09:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-06-06 10:45+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: admin.php:58
+msgid "Menu Container(s) Class / ID"
+msgstr "ID / Clase de contenedores de Menú"
+
+#: admin.php:65
+msgid ""
+"Comma separated list of selectors for the parent div containing each menu "
+"&lt;ul&gt;.<br />Example: #nav, .mini-nav"
+msgstr ""
+"Lista de selectores separada por comas para la div padre que contiene cada "
+"menú separado &lt;ul&gt;.<br />Ejemplo: #nav, .mini-nav"
+
+#: admin.php:72
+msgid "Maximum Menu Width"
+msgstr "Ancho máximo de Menú"
+
+#: admin.php:80
+msgid "The width at which the responsive select menu should appear/disappear."
+msgstr ""
+"El ancho en la que el menú de selección de respuesta debe  aparecer / "
+"desaparecer"
+
+#: admin.php:87
+msgid "Sub Item Spacer"
+msgstr "Espaciador Sub Tema"
+
+#: admin.php:94
+msgid "The character(s) used to indent sub items."
+msgstr "El personaje (s) que se utiliza para la sangría de los elementos sub."
+
+#: admin.php:101
+msgid "First Term"
+msgstr "Primer Término"
+
+#: admin.php:108
+msgid ""
+"The text for the select menu's top-level \"dummy\" item.<br />Example: ⇒ "
+"Navigation"
+msgstr ""
+"El texto de nivel superior del menú de selección de \"ficticio\" <br/> "
+"Ejemplo: ⇒  navegación"
+
+#: admin.php:115
+msgid "Show Current Page"
+msgstr "Mostrar la Página actual"
+
+#: admin.php:121
+msgid ""
+"Show the currently selected page instead of the top level \"dummy\" item."
+msgstr ""
+"Mostrar la página seleccionada en lugar del elemento \"ficticio\" nivel "
+"superior."
+
+#. Plugin Name of the plugin/theme
+msgid "jQuery Responsive Select Menu"
+msgstr "Menú para Seleccionar jQuery Responsive"
+
+#. #-#-#-#-#  plugin.pot (jQuery Responsive Select Menu 1.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (jQuery Responsive Select Menu 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://mightyminnow.com"
+msgstr "http://mightyminnow.com"
+
+#. Description of the plugin/theme
+msgid ""
+"The jQuery Responisve Select Menu plugin replaces the default WordPress "
+"navigation menu(s) with a dropdown &lt;select&gt; on mobile devices."
+msgstr ""
+"El plugin de Menú de Selección jQuery Responsive reemplaza el menú de "
+"navegación de WordPress por defecto (s) con un &lt;select&gt; desplegable en "
+"los dispositivos móviles."
+
+#. Author of the plugin/theme
+msgid "MIGHTYminnow"
+msgstr "MIGHTYminnow"

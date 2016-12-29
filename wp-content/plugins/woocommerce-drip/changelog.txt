@@ -1,0 +1,34 @@
+*** WooCommerce Drip Changelog ***
+
+2016.01.13 - version 1.2.0
+* Fix - Check for custom fields before accessing, avoiding PHP warnings.
+* Fix - Send the customer ID from the WC Order to Drip instead of the logged in user.
+* Add subscription payments to lifetime value.
+
+2015.11.03 - version 1.1.5
+* Fix - Only run the new order event once per order.
+
+2015.04.23 - version 1.1.4
+ * Adjust variables passed through to wcdrip_custom_fields filter
+ * Fix double-optin-email bug when a user registered + ordered at the same time
+ * New filters for stopping confirmation emails - wcdrip_checkout_subscribe_params + wcdrip_register_subscribe_params
+
+2015.04.16 - version 1.1.3
+ * New filter 'wcdrip_subscribe_default' for setting checkbox default
+ * Remove unneeded variables
+
+2015.04.04 - version 1.1.2
+ * Fix version number
+ 
+2015.03.14 - version 1.1.1
+ * Fix incorrect saving of drip_accounts transient
+ * Fix .pot files
+
+2015.02.24 - version 1.1.0
+ * Option to clear API key / settings
+ * Update URL to get API key
+ * Check if API key / account settings exist before running code post-checkout
+ * Saved purchased products in custom field for subscriber (, separated)
+
+2015.01.19 - version 1.0.0
+ * First Release.

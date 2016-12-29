@@ -1,0 +1,176 @@
+
+
+/* GENERIC */
+
+.bw-woofc-admin-container
+{
+        margin: 20px 20px 20px 0px !important;
+}
+.bw-woofc-admin-contentpane {
+        background: #f5f5f5 none repeat scroll 0 0;
+}
+.bw-woofc-admin-contentpane-page-wrapper {
+        padding: 20px;
+}
+.bw-woofc .btn .fa {
+    margin-right: 5px;
+}
+
+/* TOP BAR */
+
+.bw-woofc-admin-topbar {
+        background: #337ab7 none repeat scroll 0 0;
+        color: #fff;
+        height: 55px;
+        padding-left: 13px;
+        padding-top: 8px;
+        top: 0;
+        z-index: 900;
+}
+
+
+
+/* FOOTER */
+
+#bw-woofc-admin-footer{
+        background-color: #ececec;
+        color: #bebebe;
+        font-size: 80%;
+        padding: 5px;
+        text-align: center;
+}
+#bw-woofc-admin-footer a,
+#bw-woofc-admin-footer a:link,
+#bw-woofc-admin-footer a:hover,
+#bw-woofc-admin-footer a:visited,
+#bw-woofc-admin-footer a:focus
+{
+        text-decoration: underline;
+        color: #bebebe;
+
+}
+
+
+
+/* PAGE TTITLE */
+.bw-woofc-admin-contentpane-page-header
+{
+        background: #fff none repeat scroll 0 0;
+        border-bottom: medium none;
+        padding-left: 15px;
+        padding-right: 23px;
+        padding-top: 17px;
+        min-height: 60px;
+}
+
+.bw-woofc-admin-contentpane-page-header-title{
+        color: #37363e;
+        font-size: 20px;
+        font-weight: normal;
+        line-height: normal;
+        margin: 0;
+        float:left;
+}
+
+
+
+/* PANELS */
+.bw-woofc-admin-contentpane-panel {
+        background: #fff none repeat scroll 0 0;
+        border: 1px solid #e5e5e5;
+        box-shadow: none;
+        padding: 20px;
+        border-radius: 3px;
+
+}
+.bw-woofc-admin-contentpane-panel-default {
+        border-color: #ddd;
+
+}
+.bw-woofc-admin-contentpane-panel-title {
+        background: #fff none repeat scroll 0 0;
+        border-bottom: medium none;
+        color: #58666e;
+        font-size: 14px;
+        font-weight: bold;
+        margin: -20px -20px 5px;
+        padding: 16px 20px;
+        text-transform: uppercase;
+}
+
+
+
+/* TABS */
+.bw-woofc-admin-contentpane-horizontalsubmenu {
+        background: #fff none repeat scroll 0 0;
+        border-left: 1px solid #e5e5e5;
+        border-right: 1px solid #e5e5e5;
+        border-top: 1px solid #e5e5e5;
+        overflow: hidden;
+        position: relative;
+}
+
+.bw-woofc-admin-contentpane-horizontalsubmenu .menu {
+        margin-bottom: 0;
+        padding: 11px 0;
+}
+.bw-woofc-admin-contentpane-horizontalsubmenu .menu li {
+        border-right: 1px solid rgba(0, 0, 0, 0.08);
+        color: #76747a;
+        display: inline;
+        font-size: 13px;
+        padding: 16px 0;
+        margin-right: -4px;
+}
+.bw-woofc-admin-contentpane-horizontalsubmenu .menu li a {
+        border-radius: 3px;
+        color: #76747a;
+        padding: 15px 19px;
+        cursor: pointer;
+}
+.bw-woofc-admin-contentpane-horizontalsubmenu .menu li .fa {
+        color: #666;
+        font-size: 16px;
+        margin-right: 5px;
+}
+.bw-woofc-admin-contentpane-horizontalsubmenu-selecteditem {
+        border-right: 1px solid rgba(0, 0, 0, 0.08) !important;
+        display: inline !important;
+        font-size: 13px !important;
+        padding: 16px 0 !important;
+        margin-right: -4px;
+        background-color:#337ab7;
+}
+.bw-woofc-admin-contentpane-horizontalsubmenu-selecteditem a {
+        border-radius: 3px;
+        padding: 15px 19px;
+        color:#fff !important;
+        cursor: pointer;
+}
+.bw-woofc-admin-contentpane-horizontalsubmenu-selecteditem .fa {
+        color: #fff !important;
+        font-size: 16px;
+        margin-right: 5px;
+}
+
+
+
+/* SETTINGS */
+.bw-woofc-admin-settings-group {
+        border-bottom: 1px dotted silver;
+        margin-top: 20px;
+        padding-bottom: 20px;
+}
+.bw-woofc-admin-setting-label {
+        cursor: default !important;
+        padding-top: 0 !important;
+        font-weight:normal !important;
+        text-align:left !important;
+}
+.bw-woofc-admin-setting-helplabel{
+        color: #bebebe;
+        display: block;
+        font-size: 90%;
+        line-height: normal !important;
+        margin-top: 6px;
+}

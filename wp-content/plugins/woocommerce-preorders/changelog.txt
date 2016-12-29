@@ -1,0 +1,80 @@
+Version 2.4.4 - December 22, 2014 
+
+	Tweaked order status email triggers to always send when WC thinks the order is "processing" or "completed" during checkout. 
+
+Version 2.4.3 - December 2, 2014 
+
+	Ensure "payment complete" order status processing always returns a status.
+
+Version 2.4.2 - October 21, 2014 
+
+	Tweaked for backend order status changes
+
+Version 2.4.1 - October 21, 2014 
+
+	Tweaked post status registration
+	
+	Do updates on existing orders from Pre-Orders version 2.4
+
+Version 2.4 - September 18, 2014 
+
+	WooCommerce 2.2 compatibility
+
+Version 2.3.6 - July 14, 2014 
+
+	Ensure payments made via Stripe's javascript trigger order emails
+
+Version 2.3.5 - July 8, 2014 
+
+	Updated to support JS params from WooCommerce 2.1.x
+
+Version 2.3.4 - June 30, 2014 
+
+	Don't display download links on My Account or in email if an order is in Preorder status. 
+	
+	Adjust email content header if an order is in Preorder status and the order contains downloadable files.
+	
+	Changed Preorder icon text color to white
+	
+	Reverse a former code regression
+		
+Version 2.3.3 - February 18, 2014
+
+	WooCommerce 2.1 compatibility
+
+Version 2.3.2 - March 29, 2013
+
+	Fixed problem where orders are sometimes stuck in a given status
+
+	Added "pending" order status icon for WooCommerce 2.x sites
+
+Version 2.3.1 - March 15, 2013
+
+	Fixed issue where some types of international date formating break the date math calculation
+
+Version 2.3- March 5, 2013
+
+	Updated to support WooCommerce 2.x
+	Fixed issue with Javascripts conflicting on Products page in WordPress admin area
+
+Version 2.2 - February 26, 2013
+
+	- Modified date calculations to disregard timezone since admin sets the time themselves
+	- Updated kkcountdown JS script to v1.3.7
+	- Avoid loading scripts unless on the product editor page itself ( e.g. not product taxonomy pages )
+
+
+Version 2.1 - January 4, 2013
+
+	- Updated to support automatic updates
+
+Version 2.0
+
+	- Initial public release
+	- Minor tweaks for on-site labels
+	- New hooks for developers
+
+Version 1.5
+
+	- Initial private release
+

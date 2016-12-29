@@ -1,0 +1,14 @@
+/* jQuery Responsive Select Menu CSS */
+
+.jrsm-label {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+.jquery-responsive-select-menu {
+	display: none;
+}
